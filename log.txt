@@ -1,0 +1,14 @@
+Command Log
+-----------------------------
+
+Command: do-what-it-says
+--------------------
+Title: Cobra
+Year: 1986
+IMDB Rating: 5.7
+Rotten Tomatoes Rating: 17%
+Country: USA
+Language: English
+Plot: A tough-on-crime street cop must protect the only surviving witness to a strange murderous cult with far reaching plans.
+Actors: Sylvester Stallone, Brigitte Nielsen, Reni Santoni, Andrew Robinson
+--------------------
